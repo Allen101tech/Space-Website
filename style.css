@@ -1,0 +1,74 @@
+
+
+/*
+Multi line comments
+comment line 2
+*/
+                    
+
+
+
+body{
+         background-image: url('https://miro.medium.com/max/1200/1*9IIoxOcIbhMFFKMCI2ncuQ.jpeg');
+        background-repeat: no-repeat;
+        background-size:cover;
+       }
+
+h1,a{
+  color:white;
+}
+
+h1::first-letter{
+  font-size:2em;
+}
+
+
+*{
+  color:white;
+}
+
+main{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align:center;
+  width:75%;
+  margin-left:auto;
+  margin-right:auto;
+  line-height:20px;
+}
+
+nav a:hover{
+  background-color:lightblue;
+  color:orange;
+}
+
+nav a:active{
+  background-color: green;
+  color:yellow;
+}
+
+nav a{
+  text-decoration:none;
+  margin:20px;
+}
+
+a[target="_blank"]{
+  color:blue;
+  background-color:white;
+}
+
+ing{
+  width:48%;
+  margin:30px;
+}
+
+ing[alt]{
+  border:2px white dotted;
+}
+
+#space_video{
+  color:antiquewhite;
+  background-color: burlywood;
+}
+
+
+
